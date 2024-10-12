@@ -11,12 +11,12 @@ Hello! I'm Surya Raghuram, a college student at the Indian Institute of Informat
 - Web Development
 - Artificial Intelligence
 
-- ## Education
+## Education
 - Indian Institute of Information Technology-Allahabad                                          
 - expected to graduate in 2028 
 - Pursuing a Bachelor's degree in Information Technology
 
-- ## Contact Me
+## Contact Me
 - **Email :  suryaraghuramg@gmail.com 
 - **GitHub: Surya-Raghuram
 
